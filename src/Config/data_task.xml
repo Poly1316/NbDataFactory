@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rule_set>
+	<tables>
+		<field field="uuid" id="1" name="OPZ_PERSON_TMP" type="字符串">
+			<seq>
+				7
+				</seq>
+			<lower_case>
+				16
+				</lower_case>
+			<digits_num>
+				0
+				</digits_num>
+			<case_num>
+				16
+				</case_num>
+		</field>
+		<field field="entity_id" id="2" name="OPZ_PERSON_TMP" type="随机整数">
+			<seq>
+				3
+				</seq>
+			<start>
+				10000000
+				</start>
+			<end>
+				99999999
+				</end>
+		</field>
+		<field field="police_id" id="3" name="OPZ_PERSON_TMP" type="随机整数">
+			<seq>
+				3
+				</seq>
+			<start>
+				1000000000
+				</start>
+			<end>
+				9999999999
+				</end>
+		</field>
+		<field field="tmp_data" id="4" name="OPZ_PERSON_TMP" type="指定值">
+			<seq>
+				10
+				</seq>
+			<value>
+				{"basePropInfo":{"D201003":"测试修改名字","D310111":"610501196909081901","D410107":"zxxz","D400001":"1"},"bussinessType":"sf_C","identityList":[],"ifpoint":"1","info":{"basePropInfo":{"D201003":"测试修改名字","D310111":"610501196909081901","D410107":"zxxz","D400001":"1"},"reason":"","object_source":"zxxz","sensitiveList":["sf_C"],"ifpoint":1,"data_source":"S101"},"pageno":0,"pagesize":0,"reason":"","sensitiveList":["sf_C"],"source":"zxxz","unitCode":"320100264","unitPath":"/-1//320100260//320100261//320100262//320100263//320100264/","userid":"320100500"}
+				</value>
+		</field>
+		<field field="info" id="5" name="OPZ_PERSON_TMP" type="指定值">
+			<seq>
+				10
+				</seq>
+			<value>
+				{"basePropInfo":{"D201003":"测试修改名字","D310111":"610501196909081901","D410107":"zxxz","D400001":"1"},"reason":"","object_source":"zxxz","sensitiveList":["sf_C"],"ifpoint":1,"data_source":"S101"}
+				</value>
+		</field>
+		<field field="type" id="6" name="OPZ_PERSON_TMP" type="随机整数">
+			<seq>
+				3
+				</seq>
+			<start>
+				0
+				</start>
+			<end>
+				6
+				</end>
+		</field>
+		<field field="status" id="7" name="OPZ_PERSON_TMP" type="随机整数">
+			<seq>
+				3
+				</seq>
+			<start>
+				0
+				</start>
+			<end>
+				6
+				</end>
+		</field>
+		<field field="bussiness_type" id="8" name="OPZ_PERSON_TMP" type="随机整数">
+			<seq>
+				3
+				</seq>
+			<start>
+				1000000
+				</start>
+			<end>
+				99999999
+				</end>
+		</field>
+		<field field="source" id="9" name="OPZ_PERSON_TMP" type="随机整数">
+			<seq>
+				3
+				</seq>
+			<start>
+				100000
+				</start>
+			<end>
+				999999
+				</end>
+		</field>
+		<field field="unit_code" id="10" name="OPZ_PERSON_TMP" type="随机整数">
+			<seq>
+				3
+				</seq>
+			<start>
+				100000000
+				</start>
+			<end>
+				999999999
+				</end>
+		</field>
+		<field field="create_time" id="11" name="OPZ_PERSON_TMP" type="随机整数">
+			<seq>
+				3
+				</seq>
+			<start>
+				1267176004
+				</start>
+			<end>
+				1582708804
+				</end>
+		</field>
+		<field field="unit_path" id="12" name="OPZ_PERSON_TMP" type="指定值">
+			<seq>
+				10
+				</seq>
+			<value>
+				1//320100260//320100261//320100262//320100263//320100264/
+				</value>
+		</field>
+	</tables>
+</rule_set>

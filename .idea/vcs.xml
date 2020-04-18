@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="D:/FK自动化/FK自动化/FkVirEnv/FkVirEnv/Lib/site-packages/FkLibrary" vcs="svn" />
+    <mapping directory="E:" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="E:/Python-project/WolfGo" vcs="Git" />
+    <mapping directory="F:/python-project/Country_Task_people" vcs="svn" />
+    <mapping directory="F:/python-project/ES_GP_DATA_ANALYSIS" vcs="svn" />
+    <mapping directory="F:/python-project/dcs_log_parse" vcs="svn" />
+    <mapping directory="F:/python-project/k12" vcs="svn" />
+    <mapping directory="F:/python-project/pypiserver-manager" vcs="Git" />
+    <mapping directory="F:/python-project/接入流程测试" vcs="svn" />
+  </component>
+</project>

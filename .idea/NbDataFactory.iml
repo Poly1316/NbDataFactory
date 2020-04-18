@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="Python 2.7" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="OracleDataAnalyse" />
+    <orderEntry type="module" module-name="AlarmDataHitTest" />
+    <orderEntry type="module" module-name="AttributeRichness" />
+    <orderEntry type="module" module-name="AttributeRichness" />
+    <orderEntry type="module" module-name="001-trunk" />
+    <orderEntry type="module" module-name="ErrorLogAlarm" />
+    <orderEntry type="module" module-name="LogParse" />
+    <orderEntry type="module" module-name="dcs_log_parse" />
+    <orderEntry type="module" module-name="ES及GP数据增量统计" />
+    <orderEntry type="module" module-name="ErrorLogAlarm" />
+    <orderEntry type="module" module-name="接入流程测试" />
+    <orderEntry type="module" module-name="LogCatch" />
+    <orderEntry type="module" module-name="616PushAndSynchronize" />
+    <orderEntry type="module" module-name="OracleJobMonitor" />
+    <orderEntry type="module" module-name="ECVS2-PythonProjects" />
+    <orderEntry type="module" module-name="country_task_auto_data" />
+    <orderEntry type="module" module-name="Country_Task_people" />
+    <orderEntry type="module" module-name="mypractice" />
+    <orderEntry type="module" module-name="practice" />
+    <orderEntry type="module" module-name="JOB_FK_COLLECT_ALARM" />
+    <orderEntry type="module" module-name="PersonExactAttributeAnalysis" />
+    <orderEntry type="module" module-name="PersonExactAttributeAnalysis" />
+    <orderEntry type="module" module-name="ForTag" />
+    <orderEntry type="module" module-name="interfaceTest" />
+    <orderEntry type="module" module-name="cnblogSpider" />
+    <orderEntry type="module" module-name="DouBanMovie" />
+    <orderEntry type="module" module-name="PhotoSpider" />
+    <orderEntry type="module" module-name="webTest" />
+    <orderEntry type="module" module-name="PersonInfoCenterHero_data_add" />
+    <orderEntry type="module" module-name="python-selenium" />
+    <orderEntry type="module" module-name="FkLibrary" />
+    <orderEntry type="module" module-name="Country_Task_people" />
+    <orderEntry type="module" module-name="bkspider" />
+    <orderEntry type="module" module-name="pypiserver-manager" />
+    <orderEntry type="module" module-name="requestnew" />
+    <orderEntry type="module" module-name="requestnew" />
+    <orderEntry type="module" module-name="fhtp" />
+    <orderEntry type="module" module-name="WolfGo" />
+  </component>
+</module>

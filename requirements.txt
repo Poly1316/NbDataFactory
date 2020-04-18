@@ -1,0 +1,13 @@
+cx-Oracle==6.0.3
+ecdsa==0.13
+enum34==1.1.6
+numpy==1.14.3
+pandas==0.22.0
+paramiko==1.15.2
+pycrypto==2.6.1
+PyMySQL==0.7.11
+pypinyin==0.27.0
+python-dateutil==2.7.3
+pytz==2018.3
+six==1.11.0
+xlrd==1.1.0

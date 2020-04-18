@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c6c3f611-834b-4fb5-aae4-d8b2427a7b3f" name="AutoTest" url="http://172.16.40.83">
+        <fileTransfer host="172.16.40.83" port="22" rootFolder="/home/requestnew" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

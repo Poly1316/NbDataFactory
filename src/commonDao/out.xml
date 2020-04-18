@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rule_set>
+    <tables name="sh_mh_passenger_in_dz">
+        <field id="101" name="随机整数">
+            <seq>3</seq>
+            <start>1000000</start>
+            <end>99999999</end>
+        </field>
+        <field id="102" name="航班号">
+            <seq>4</seq>
+        </field>
+        <field id="103" name="日期时间">
+            <seq>5</seq>
+            <pattern>%Y/%m/%d</pattern>
+            <time_second>1800</time_second>
+            <time_pro>0</time_pro>
+        </field>
+        <field id="104" name="机场三字码">
+            <seq>6</seq>
+        </field>
+        <field id="105" name="机场三字码">
+            <seq>6</seq>
+        </field>
+        <field id="106" name="日期时间">
+            <seq>5</seq>
+            <pattern>%H%M</pattern>
+            <time_second>0</time_second>
+            <time_pro>0</time_pro>
+        </field>
+        <field id="107" name="日期时间">
+            <seq>5</seq>
+            <pattern>%H%M</pattern>
+            <time_second>3600</time_second>
+            <time_pro>0</time_pro>
+        </field>
+        <field id="108" name="姓名">
+            <seq>2</seq>
+            <path>../Config/Const.conf</path>
+        </field>
+        <field id="109" name="字符串">
+            <seq>7</seq>
+            <lower_case>0</lower_case>
+            <digits_num>0</digits_num>
+            <case_num>6</case_num>
+        </field>
+        <field id="110" name="身份证号码">
+            <seq>1</seq>
+            <digit>18</digit>
+        </field>
+        <field id="111" name="空值">
+            <seq>0</seq>
+        </field>
+        <field id="112" name="空值">
+            <seq>0</seq>
+        </field>
+        <field id="113" name="字符串">
+            <seq>7</seq>
+            <lower_case>1</lower_case>
+            <digits_num>1</digits_num>
+            <case_num>6</case_num>
+        </field>
+        <field id="114" name="字符串">
+            <seq>7</seq>
+            <lower_case>0</lower_case>
+            <digits_num>0</digits_num>
+            <case_num>1</case_num>
+        </field>
+        <field id="115" name="空值">
+            <seq>0</seq>
+        </field>
+        <field id="116" name="随机性别">
+            <seq>8</seq>
+        </field>
+        <field id="117" name="日期时间">
+            <seq>5</seq>
+            <pattern>%H%M</pattern>
+            <time_second>-720000000</time_second>
+            <time_pro>2</time_pro>
+        </field>
+        <field id="118" name="手机号码">
+            <seq>9</seq>
+        </field>
+        <field id="119" name="随机整数">
+            <seq>3</seq>
+            <start>1000000</start>
+            <end>99999999</end>
+        </field>
+        <field id="120" name="空值">
+            <seq>0</seq>
+        </field>
+        <field id="121" name="空值">
+            <seq>0</seq>
+        </field>
+        <field id="122" name="日期时间">
+            <seq>5</seq>
+            <pattern>%Y-%m-%d %H:%M:%S</pattern>
+            <time_second>0</time_second>
+            <time_pro>1</time_pro>
+        </field>
+        <field id="123" name="日期时间">
+            <seq>5</seq>
+            <pattern>%Y-%m-%d %H:%M:%S</pattern>
+            <time_second>0</time_second>
+            <time_pro>1</time_pro>
+        </field>
+        <field id="124" name="空值">
+            <seq>0</seq>
+        </field>
+        <field id="125" name="空值">
+            <seq>0</seq>
+        </field>
+        <field id="126" name="空值">
+            <seq>0</seq>
+        </field>
+        <field id="127" name="日期时间">
+            <seq>5</seq>
+            <pattern>%Y-%m-%d %H:%M:%S</pattern>
+            <time_second>0</time_second>
+            <time_pro>1</time_pro>
+        </field>
+        <field id="128" name="空值">
+            <seq>0</seq>
+        </field>
+        <field id="129" name="空值">
+            <seq>0</seq>
+        </field>
+    <field name="sh_mh_passenger_in_dz_1" type="随机整数">
+		<tab1>123</tab1></field></tables>
+</rule_set>

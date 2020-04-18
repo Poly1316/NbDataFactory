@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:/.idea/001-trunk.iml" filepath="E:/.idea/001-trunk.iml" />
+      <module fileurl="file://F:/python-project/616PushAndSynchronize/.idea/616PushAndSynchronize.iml" filepath="F:/python-project/616PushAndSynchronize/.idea/616PushAndSynchronize.iml" />
+      <module fileurl="file://E:/AlarmDataHitTest/.idea/AlarmDataHitTest.iml" filepath="E:/AlarmDataHitTest/.idea/AlarmDataHitTest.iml" />
+      <module fileurl="file://F:/python-project/AttributeRichness/.idea/AttributeRichness.iml" filepath="F:/python-project/AttributeRichness/.idea/AttributeRichness.iml" />
+      <module fileurl="file://F:/python-project/Country_Task_people/.idea/Country_Task_people.iml" filepath="F:/python-project/Country_Task_people/.idea/Country_Task_people.iml" />
+      <module fileurl="file://F:/python-project/DouBanMovie/.idea/DouBanMovie.iml" filepath="F:/python-project/DouBanMovie/.idea/DouBanMovie.iml" />
+      <module fileurl="file://F:/python-project/k12/.idea/ECVS2-PythonProjects.iml" filepath="F:/python-project/k12/.idea/ECVS2-PythonProjects.iml" />
+      <module fileurl="file://F:/python-project/ES_GP_DATA_ANALYSIS/.idea/ES及GP数据增量统计.iml" filepath="F:/python-project/ES_GP_DATA_ANALYSIS/.idea/ES及GP数据增量统计.iml" />
+      <module fileurl="file://F:/python-project/ErrorLogAlarm/.idea/ErrorLogAlarm.iml" filepath="F:/python-project/ErrorLogAlarm/.idea/ErrorLogAlarm.iml" />
+      <module fileurl="file://D:/FK自动化/FK自动化/FkVirEnv/FkVirEnv/Lib/site-packages/FkLibrary/.idea/FkLibrary.iml" filepath="D:/FK自动化/FK自动化/FkVirEnv/FkVirEnv/Lib/site-packages/FkLibrary/.idea/FkLibrary.iml" />
+      <module fileurl="file://F:/python-project/ForTag/.idea/ForTag.iml" filepath="F:/python-project/ForTag/.idea/ForTag.iml" />
+      <module fileurl="file://F:/python-project/NebulaDT_DataCenter_MrGatherAlarm-install-1.0.7/JOB_FK_COLLECT_ALARM/.idea/JOB_FK_COLLECT_ALARM.iml" filepath="F:/python-project/NebulaDT_DataCenter_MrGatherAlarm-install-1.0.7/JOB_FK_COLLECT_ALARM/.idea/JOB_FK_COLLECT_ALARM.iml" />
+      <module fileurl="file://F:/python-project/LogCatch/.idea/LogCatch.iml" filepath="F:/python-project/LogCatch/.idea/LogCatch.iml" />
+      <module fileurl="file://F:/LogParse/.idea/LogParse.iml" filepath="F:/LogParse/.idea/LogParse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/NbDataFactory.iml" filepath="$PROJECT_DIR$/.idea/NbDataFactory.iml" />
+      <module fileurl="file://E:/OracleDataAnalyse/.idea/OracleDataAnalyse.iml" filepath="E:/OracleDataAnalyse/.idea/OracleDataAnalyse.iml" />
+      <module fileurl="file://F:/python-project/OracleJobMonitor/.idea/OracleJobMonitor.iml" filepath="F:/python-project/OracleJobMonitor/.idea/OracleJobMonitor.iml" />
+      <module fileurl="file://F:/PersonExactAttributeAnalysis/.idea/PersonExactAttributeAnalysis.iml" filepath="F:/PersonExactAttributeAnalysis/.idea/PersonExactAttributeAnalysis.iml" />
+      <module fileurl="file://F:/python-project/PersonInfoCenterHero_data_add/.idea/PersonInfoCenterHero_data_add.iml" filepath="F:/python-project/PersonInfoCenterHero_data_add/.idea/PersonInfoCenterHero_data_add.iml" />
+      <module fileurl="file://F:/python-project/PhotoSpider/.idea/PhotoSpider.iml" filepath="F:/python-project/PhotoSpider/.idea/PhotoSpider.iml" />
+      <module fileurl="file://E:/Python-project/WolfGo/.idea/WolfGo.iml" filepath="E:/Python-project/WolfGo/.idea/WolfGo.iml" />
+      <module fileurl="file://F:/python-project/kmgmt-py/bkspider/.idea/bkspider.iml" filepath="F:/python-project/kmgmt-py/bkspider/.idea/bkspider.iml" />
+      <module fileurl="file://F:/python-project/cnblogSpider/.idea/cnblogSpider.iml" filepath="F:/python-project/cnblogSpider/.idea/cnblogSpider.iml" />
+      <module fileurl="file://F:/python-project/Country_Task_people/.idea/country_task_auto_data.iml" filepath="F:/python-project/Country_Task_people/.idea/country_task_auto_data.iml" />
+      <module fileurl="file://F:/python-project/dcs_log_parse/.idea/dcs_log_parse.iml" filepath="F:/python-project/dcs_log_parse/.idea/dcs_log_parse.iml" />
+      <module fileurl="file://F:/python-project/fhtp/.idea/fhtp.iml" filepath="F:/python-project/fhtp/.idea/fhtp.iml" />
+      <module fileurl="file://F:/python-project/interfaceTest/.idea/interfaceTest.iml" filepath="F:/python-project/interfaceTest/.idea/interfaceTest.iml" />
+      <module fileurl="file://F:/python-project/mypractice/.idea/mypractice.iml" filepath="F:/python-project/mypractice/.idea/mypractice.iml" />
+      <module fileurl="file://F:/python-project/practice/.idea/practice.iml" filepath="F:/python-project/practice/.idea/practice.iml" />
+      <module fileurl="file://F:/python-project/pypiserver-manager/.idea/pypiserver-manager.iml" filepath="F:/python-project/pypiserver-manager/.idea/pypiserver-manager.iml" />
+      <module fileurl="file://F:/python-project/python-selenium/.idea/python-selenium.iml" filepath="F:/python-project/python-selenium/.idea/python-selenium.iml" />
+      <module fileurl="file://F:/python-project/requestnew/.idea/requestnew.iml" filepath="F:/python-project/requestnew/.idea/requestnew.iml" />
+      <module fileurl="file://F:/python-project/webTest/.idea/webTest.iml" filepath="F:/python-project/webTest/.idea/webTest.iml" />
+      <module fileurl="file://F:/python-project/接入流程测试/.idea/接入流程测试.iml" filepath="F:/python-project/接入流程测试/.idea/接入流程测试.iml" />
+    </modules>
+  </component>
+</project>
