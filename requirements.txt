@@ -3,7 +3,7 @@ ecdsa==0.13
 enum34==1.1.6
 numpy==1.14.3
 pandas==0.22.0
-paramiko==1.15.2
+paramiko==2.0.9
 pycrypto==2.6.1
 PyMySQL==0.7.11
 pypinyin==0.27.0
