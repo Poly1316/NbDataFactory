@@ -1,7 +1,7 @@
 cx-Oracle==6.0.3
 ecdsa==0.13
 enum34==1.1.6
-numpy==1.14.3
+numpy==1.22.0
 pandas==0.22.0
 paramiko==1.15.2
 pycrypto==2.6.1
